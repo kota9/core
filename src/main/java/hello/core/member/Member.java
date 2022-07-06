@@ -12,7 +12,6 @@ public class Member {
         this.grade = grade;
     }
 
-
     public Long getId() {
         return id;
     }
